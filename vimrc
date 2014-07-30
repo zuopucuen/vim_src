@@ -40,6 +40,3 @@ nnoremap <C-t> :NERDTree<CR>
         "}
 
         "}}
-"execute pathogen#infect()
-"syntax on
-"filetype plugin indent on
