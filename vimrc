@@ -9,6 +9,7 @@ set expandtab               "以下三个配置配合使用，设置tab和缩进
 set shiftwidth=4
 set tabstop=4
 set cursorline              "为光标所在行加下划线
+set cursorcolumn            "设置竖线
 set number                  "显示行号
 set autoread                "文件在Vim之外修改过，自动重新读入
 
